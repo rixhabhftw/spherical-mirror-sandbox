@@ -13,7 +13,7 @@ let isConvex;
 
 let poleX = 400;
 let poleY = 200;
-let objHeight = 70;
+let objHeight = 40;
 let focalLength;
 let u = 175;
 
