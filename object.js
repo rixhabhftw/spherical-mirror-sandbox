@@ -11,7 +11,7 @@ class Obj {
 		this.x = u - poleX;
 
 
-		stroke(255);
+		stroke(155);
 		strokeWeight(4);
 		line(this.x, this.y, this.x, this.y + gtocy(this.height));
 	}
