@@ -15,7 +15,7 @@ let poleX = 400;
 let poleY = 200;
 let objHeight = 60;
 let focalLength;
-let u = 100;
+let u = 250;
 
 function setup() {
   let canv = createCanvas(700, 400);
