@@ -13,9 +13,9 @@ let isConvex;
 
 let poleX = 400;
 let poleY = 200;
-let objHeight = 40;
+let objHeight = 60;
 let focalLength;
-let u = 175;
+let u = 100;
 
 function setup() {
   let canv = createCanvas(700, 400);
